@@ -120,7 +120,7 @@ const myBrain: CognitiveAbilities = {
 
 [![Website](https://img.shields.io/badge/🏠_Hub-42.community-blue?style=for-the-badge)](https://42.community)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/xbardofficial)
-[![Substack](https://img.shields.io/badge/Substack_161718xbard.substack.com/?style=for-the-badge&logo=substack&logoColor=white)
+[![Substack](https://img.shields.io/badge/Substack-161718xbard.substack.com/?style=for-the-badge&logo=substack&logoColor=white)
 [![Project Site](https://img.shields.io/badge/🖥️_Project-c42os.com-purple?style=for-the-badge)](https://c42os.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xbard-42.community)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/xbardofficial)
