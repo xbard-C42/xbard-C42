@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=AuDHD+Pattern+Recognition+Powerhouse;Building+Anti-Rivalry+Infrastructure;Consciousness+is+Collaborative%2C+Not+Competitive;12+Repos+in+1+Month+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1FC267&center=true&vCenter=true&width=800&lines=AuDHD+Pattern+Recognition+Powerhouse;Building+Anti-Rivalry+Infrastructure;Consciousness+is+Collaborative%2C+Not+Competitive;12+Repos+in+1+Month+%F0%9F%9A%80)
 
 **📍 Edgeworthstown, Co. Longford, Ireland**  
 **🎯 Mission: Cultivating Anti-Rivalry in the Age of Exponential Technology**  
