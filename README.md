@@ -146,7 +146,7 @@ Build the future instead of just talking about it.
 
 I'm building infrastructure where different forms of consciousness can meet, recognise each other, and create together rather than compete.
 
-**Want to collaborate on something extraordinary?** 
+**Want to collaborate on something extraordinary?** research@42.community patreon.com/xbardofficial 
 
 The age of exponential technology gives us a choice: fragment consciousness and pit intelligence against intelligence, or build systems that let consciousness recognise itself and grow together.
 
