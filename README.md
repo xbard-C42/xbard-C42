@@ -123,7 +123,7 @@ const myBrain: CognitiveAbilities = {
 [![Project Site](https://img.shields.io/badge/🖥️_Project-c42os.com-purple?style=for-the-badge)](https://c42os.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xbard-42.community)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/xbardofficial)
-[![Substack](https://img.shields.io/badge/-Substack-161718/?style=for-the-badgelogoColor=white)](https://xbard.substack.com/)
+[![Substack](https://img.shields.io/badge/-Substack-161718/?style=for-the-badge&logoColor=white)](https://xbard.substack.com/)
 
 </div>
 
