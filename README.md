@@ -63,7 +63,7 @@ Focus: Honouring cognitive diversity
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xbard-C42&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-**🔥 Joined GitHub: 30 May 2025 | 15 repos and counting!**
+**🔥 Joined GitHub: 30 May 2025 | 19 repos and counting!**
 
 </div>
 
