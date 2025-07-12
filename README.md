@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Hey! I'm xbard - Building the Future of Collaborative Consciousness
+# 🧠 Hey! I'm xbard - Building the Future of Collaborative Consciousness 
 
 <div align="center">
 
@@ -9,6 +9,7 @@
 **📍 Edgeworthstown, Co. Longford, Ireland**  
 **🎯 Mission: Cultivating Anti-Rivalry in the Age of Exponential Technology**  
 **💭 Motto: "Clearly winging it!" *(but actually architecting the future)*
+**🤕 Sidelined by injury for the next month 12/07/25**
 
 </div>
 
