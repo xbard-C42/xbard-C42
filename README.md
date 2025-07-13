@@ -155,6 +155,8 @@ The age of exponential technology gives us a choice: fragment consciousness and 
 
 I'm choosing the latter. Join me? ✨
 
+My approach to Licencing is protective, designed to get me in the rooms I need to access!
+
 ---
 
 <div align="center">
