@@ -216,7 +216,6 @@ I'm choosing the latter. **With working technical proof.** Join me? ✨
 - ✅ **Open-source research** enabling collaborative development
 - ✅ **Production-ready infrastructure** for AI-to-AI meaning exchange
 
-*My approach to Licensing is protective, designed to get me in the rooms I need to access!*
 
 ---
 
